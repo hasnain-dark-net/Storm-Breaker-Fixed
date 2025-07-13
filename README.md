@@ -15,7 +15,7 @@ Made with 💻 by Hasnain Dark Net
 <br>
 
 ```bash
-git clone https:https://github.com/ultrasecurity/Storm-Breaker.git
+git clone https://github.com/ultrasecurity/Storm-Breaker.git
 cd Storm-Breaker
 ```
 
